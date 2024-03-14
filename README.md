@@ -60,5 +60,6 @@
 
 
 ###
+<br clear="both">
 
-###
+<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" />
