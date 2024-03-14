@@ -1,4 +1,4 @@
-<h1 align="left" style="font-family: 'Lucida ', cursive, 'Times New Roman', Times, serif; font-weight: bold;">Hi 👋! My name is Chittivalasa Rakesh... and I'm Studying Master of Computer Applications in Dr. B. R. Ambedkar University ..., I'm from Srikakulam dist Andhra Pradesh ....</h1>
+<h1 align="left" style="font-family: 'Lucida ', cursive, 'Times New Roman', Times, serif; font-weight: bold;">Hi 👋! My name is Chittivalasa Rakesh... and I'm Studying Master of Computer Applications in Dr. B. R. Ambedkar University ..., I'm from Srikakulam,  Andhra Pradesh ....</h1>
 
 
 
