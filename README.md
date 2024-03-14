@@ -12,7 +12,7 @@
 
 ###
 
-<img align="right" height="150" src="https://user-images.githubusercontent.com/91601706/171507922-da5787ba-dc80-4e4d-a9f5-cabce9a0aca1.gif" />
+<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:960/format:webp/1*_AH_cNH3YMtcwdpD7DuLWQ.gif" />
 
 
 ###
