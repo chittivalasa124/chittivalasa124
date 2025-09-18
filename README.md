@@ -1,4 +1,4 @@
-<h1 align="left" style="font-family: 'Lucida ', cursive, 'Times New Roman', Times, serif; font-weight: bold;">Hi 👋! My name is Chittivalasa Rakesh... and I'm Studying Master of Computer Applications in Dr. B. R. Ambedkar University ..., I'm from Srikakulam,  Andhra Pradesh ....</h1>
+<h1 align="left" style="font-family: 'Lucida ', cursive, 'Times New Roman', Times, serif; font-weight: bold;">Hi 👋! My name is Chittivalasa Rakesh. I have completed a Master of Computer Applications at Dr. B. R. Ambedkar University. I am from Srikakulam, Andhra Pradesh.....</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittivalasa124&label=Profile%20views&color=0e75b6&style=flat" alt="chittivalasa124" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chittivalasa124" alt="chittivalasa124" /></a> </p>
