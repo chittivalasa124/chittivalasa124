@@ -1,7 +1,7 @@
 <h1 align="left" style="font-family: 'Lucida ', cursive, 'Times New Roman', Times, serif; font-weight: bold;">Hi 👋! My name is Chittivalasa Rakesh. I have completed a Master of Computer Applications at Dr. B. R. Ambedkar University. I am from Srikakulam, Andhra Pradesh.....</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittivalasa124&label=Profile%20views&color=0e75b6&style=flat" alt="chittivalasa124" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chittivalasa124" alt="chittivalasa124" /></a> </p>
+<!-- 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chittivalasa124" alt="chittivalasa124" /></a> </p> -->
 
 
 
@@ -48,13 +48,13 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   
-  <a href="https://www.instagram.com/itsme_mr.rakesh/" target="_blank">
+  <!-- <a href="https://www.instagram.com/itsme_mr.rakesh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
   
   <a href="https://twitter.com/ChRakesh124" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
-  </a>
+  </a> -->
   
   <a href="mailto:chittivalasa1204@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
