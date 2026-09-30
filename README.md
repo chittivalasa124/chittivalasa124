@@ -83,4 +83,9 @@
 ###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-snake-dark.svg" />
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/chittivalasa124/chittivalasa124/output/github-contribution-grid-snake-dark.svg"
+    alt="GitHub Contribution Snake"
+  />
+</p>
