@@ -25,7 +25,7 @@ jobs:
         with:
           github_user_name: chittivalasa124
           outputs: |
-            dist/github-contribution-grid-snake.gif?color_snake=#00FFFF
+            dist/github-contribution-grid-snake.gif?color_snake=#00FFFF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353&color_background=#0D1117
 
       - name: Publish snake
         uses: crazy-max/ghaction-github-pages@v3.1.0
