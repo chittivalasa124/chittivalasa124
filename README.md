@@ -60,65 +60,27 @@
 </div>
 
 ###
-
-###
-
-<!-- Social & Coding Profiles -->
-
 <div align="left">
-
-  <!-- LinkedIn -->
-  <a
-    href="https://www.linkedin.com/in/chittivalasa124/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      height="35"
-      alt="LinkedIn"
-    />
+  <a href="https://www.linkedin.com/in/chittivalasa124/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
 
-  <!-- LeetCode -->
-  <a
-    href="https://leetcode.com/u/chittivalasa-rakesh/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
-      height="35"
-      alt="LeetCode"
-    />
+  <a href="https://leetcode.com/u/chittivalasa-rakesh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
   </a>
-
-  <!-- GeeksforGeeks -->
-  <a
-    href="https://www.geeksforgeeks.org/user/chittivalasa9rw/"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-      height="35"
-      alt="GeeksforGeeks"
-    />
+</div>
+  
+  <!-- <a href="https://www.instagram.com/itsme_mr.rakesh/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
   </a>
-
-  <!-- Gmail -->
-  <a
-    href="mailto:chittivalasa1204@gmail.com"
-    target="_blank"
-    rel="noopener noreferrer"
-  >
-    <img
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      height="35"
-      alt="Gmail"
-    />
+  
+  <a href="https://twitter.com/ChRakesh124" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Twitter logo" />
+  </a> -->
+  
+  <a href="mailto:chittivalasa1204@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
   </a>
-
 </div>
 
 
