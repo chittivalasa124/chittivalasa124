@@ -1,4 +1,4 @@
-<h1 align="left" style="font-family: 'Lucida ', cursive, 'Times New Roman', Times, serif; font-weight: bold;">Hi 👋! My name is Chittivalasa Rakesh. I have completed a Master of Computer Applications at Dr. B. R. Ambedkar University. I am from Srikakulam, Andhra Pradesh.....</h1>
+<img width="1920" height="1200" alt="image" src="https://github.com/user-attachments/assets/77e9afc9-e7cd-4d35-b0f5-99d2c473f4f7" /><h1 align="left" style="font-family: 'Lucida ', cursive, 'Times New Roman', Times, serif; font-weight: bold;">Hi 👋! My name is Chittivalasa Rakesh. I have completed a Master of Computer Applications at Dr. B. R. Ambedkar University. I am from Srikakulam, Andhra Pradesh.....</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chittivalasa124&label=Profile%20views&color=0e75b6&style=flat" alt="chittivalasa124" /> </p>
 <!-- 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chittivalasa124" alt="chittivalasa124" /></a> </p> -->
@@ -60,15 +60,16 @@
 </div>
 
 ###
+
 <div align="left">
   <a href="https://www.linkedin.com/in/chittivalasa124/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
-[
+
   <a href="https://leetcode.com/u/chittivalasa-rakesh/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="leetcode logo" />
+    <img src="https://trypear.ai/images/leetcode.png" height="35" alt="leetcode logo" />
   </a>
-</div>](https://trypear.ai/images/leetcode.png)
+</div>
   
   <!-- <a href="https://www.instagram.com/itsme_mr.rakesh/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
