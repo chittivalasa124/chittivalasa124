@@ -24,6 +24,7 @@ jobs:
         uses: Platane/snk@v3
         with:
           github_user_name: chittivalasa124
+          github_token: ${{ secrets.GH_TOKEN }}
           outputs: |
             dist/github-contribution-grid-snake.gif?color_snake=#00FFFF&color_dots=#161B22,#0E4429,#006D32,#26A641,#39D353&color_background=#0D1117
 
