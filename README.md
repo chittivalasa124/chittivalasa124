@@ -109,4 +109,6 @@
   />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chittivalasa124&show_icons=true&locale=en" alt="chittivalasa124" /></p>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chittivalasa124&show_icons=true&locale=en" alt="chittivalasa124" />
+</p>
