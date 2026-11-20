@@ -109,7 +109,4 @@
   />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chittivalasa124&show_icons=true&locale=en&hide_rank=true" alt="GitHub stats for chittivalasa124" />
-  <img src="assets/rc-status.svg" width="72" height="72" alt="RC status" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chittivalasa124&show_icons=true&locale=en" alt="chittivalasa124" /></p>
