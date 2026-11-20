@@ -110,5 +110,5 @@
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chittivalasa124&show_icons=true&locale=en" alt="chittivalasa124" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chittivalasa124&show_icons=true&locale=en&cache_seconds=1800" alt="chittivalasa124" />
 </p>
