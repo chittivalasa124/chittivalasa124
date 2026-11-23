@@ -1,3 +1,4 @@
+
 <h1 align="left">Hi 👋! I'm Chittivalasa Rakesh</h1>
 
 <p align="left">
@@ -25,83 +26,109 @@
   📍 Andhra Pradesh, India
 </p>
 
+<!-- Profile Views -->
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=chittivalasa124&label=Profile%20views&color=0e75b6&style=flat" alt="chittivalasa124" />
+  <img
+    src="https://komarev.com/ghpvc/?username=chittivalasa124&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
+<!-- Animated Developer GIF -->
+<img
+  align="right"
+  height="150"
+  src="https://miro.medium.com/v2/resize:fit:960/format:webp/1*_AH_cNH3YMtcwdpD7DuLWQ.gif"
+  alt="Developer Animation"
+/>
 
-###
-
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chittivalasa124&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=chittivalasa124&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top languages" />
-</div> -->
-
-
-###
-
-<img align="right" height="150" src="https://miro.medium.com/v2/resize:fit:960/format:webp/1*_AH_cNH3YMtcwdpD7DuLWQ.gif" />
-
-
-###
-
+<!-- Technical Skills -->
 <div align="left">
 
   <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angular logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
   <img width="12" />
 
-  <!-- Backend / MEAN -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="express logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="Angular" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="Bootstrap" />
+  <img width="12" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express.js" />
+  <img width="12" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
   <img width="12" />
 
   <!-- Programming Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
   <img width="12" />
 
   <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="NPM" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code" />
 
 </div>
 
-###
+<br>
+
+<!-- Social Links -->
 <div align="left">
-  <a href="https://www.linkedin.com/in/chittivalasa124/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn logo" />
+
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/chittivalasa124/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+      height="35"
+      alt="LinkedIn"
+    />
   </a>
 
-  <a href="https://leetcode.com/u/chittivalasa-rakesh/" target="_blank" rel="noopener noreferrer">
-    <img src="https://trypear.ai/images/leetcode.png" height="35" alt="LeetCode logo" />
+  <!-- LeetCode -->
+  <a href="https://leetcode.com/u/chittivalasa-rakesh/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"
+      height="35"
+      alt="LeetCode"
+    />
   </a>
 
-  <a href="mailto:chittivalasa1204@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail logo" />
+  <!-- Gmail -->
+  <a href="mailto:chittivalasa1204@gmail.com">
+    <img
+      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+      height="35"
+      alt="Gmail"
+    />
   </a>
+
 </div>
 
-
-###
 <br clear="both">
+
+<!-- GitHub Contribution Snake -->
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/chittivalasa124/chittivalasa124/output/github-contribution-grid-snake.gif"
@@ -109,6 +136,13 @@
   />
 </p>
 
+<!-- Custom GitHub Stats with RC Inside Circle -->
+<h3 align="center">📊 GitHub Statistics</h3>
+
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chittivalasa124&show_icons=true&locale=en&cache_seconds=1800" alt="chittivalasa124" />
+  <img
+    src="./assets/github-stats.svg"
+    alt="Chittivalasa Rakesh GitHub Stats - RC"
+    width="450"
+  />
 </p>
